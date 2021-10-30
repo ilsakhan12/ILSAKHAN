@@ -1,0 +1,35 @@
+table{
+    background-color:#0e7eff ;
+    float: left;
+    height: 800px; 
+     
+}
+body{
+    background-color: rgb(94, 122, 148);
+    
+}
+.row{
+    border: 2px solid rgb(0, 247, 255);
+    background-color: rgb(177, 105, 105);
+    margin-bottom: -10px;
+    margin-top: -20px;
+    margin-left: -200px;
+}
+img{
+    width: 330px;
+    height:320px;
+   
+
+}
+h4{
+    font-size: 50px;
+    color: #150453;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(165, 193, 245);
+    justify-content: safe;
+  }
